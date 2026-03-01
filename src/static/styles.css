@@ -108,6 +108,7 @@ section h3 {
   border: 1px solid #e57373;
   background-color: #ffebee;
   color: #c62828;
+  cursor: pointer;
   padding: 0;
   font-size: 14px;
   line-height: 1;
